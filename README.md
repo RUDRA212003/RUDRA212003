@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RUDRA212003
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning in computer science
 - 💞️ I’m looking to collaborate on webdevelopment projects
 - 📫 How to reach me linkdin (https://www.linkedin.com/in/rudresh-manjunath21/)
