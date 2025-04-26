@@ -1,69 +1,29 @@
-<h1 align="center">Hi 👋, I'm Rudresh</h1>
-<h3 align="center">A passionate Web Developer & Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm RUDRESH M</h1>
+<h3 align="center">I'm a passionate web developer and tech explorer who loves building meaningful projects, learning new tools, and making tech simple for everyone.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=React+%7C+Next.js+%7C+FastAPI+Lover;Engineering+Student+%F0%9F%91%93;Building+Techie+Notes+Platform+%F0%9F%92%BB;Let's+Code+Together+%F0%9F%92%AA" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra212003&label=Profile%20views&color=0e75b6&style=flat" alt="rudra212003" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@yo_rudra" target="blank"><img src="https://img.shields.io/twitter/follow/@yo_rudra?logo=twitter&style=for-the-badge" alt="@yo_rudra" /></a> </p>
+
+- 🔭 I’m currently working on [Techie Notes](https://kit-student-web.vercel.app/home)
+
+- 🌱 I’m currently learning **REACT JS**
+
+- 📫 How to reach me **rudratiptur@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@yo_rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yo_rudra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rudresh-manjunath21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudresh-manjunath21" height="30" width="40" /></a>
+<a href="https://instagram.com/yoyorudra_offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyorudra_offical" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rudra_21112003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudra_21112003" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 🌟 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra212003&show_icons=true&locale=en&layout=compact" alt="rudra212003" /></p>
 
-- 🔭 I’m currently working on **Techie Notes Platform**
-- 🌱 I’m learning **Security, AI Projects, and Web Dev**
-- 💬 Ask me about **React, FastAPI, Tailwind, or VTU**
-- 👯 I love collaborating on **student-friendly tools**
-- 🥗 Ragi Mudde + Sambar = ❤️
-- 🌐 Visit: [Phase Changers Club](https://yourwebsite.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra212003&show_icons=true&locale=en" alt="rudra212003" /></p>
 
----
-
-### 🚀 My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,fastapi,git,github,vscode" />
-</p>
-
----
-
-### 🌐 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-### 🔥 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=red" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra212003&" alt="rudra212003" /></p>
